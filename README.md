@@ -2,7 +2,7 @@
 
 
 <img src="assets/pic1.png" width="350" />
-<br /><br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="assets/pic2.png" width="350" />
 <br /><br />
 <img src="assets/pic3.png" width="350" />
