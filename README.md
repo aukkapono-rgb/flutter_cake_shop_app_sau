@@ -1,4 +1,4 @@
 # flutter_cake_shop_app
 
-![PAGE1](assets/pic.png)
+![PAGE1](assets/pic1.png)
 
