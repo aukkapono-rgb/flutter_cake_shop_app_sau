@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_cake_shop_app/views/splassh_screen_ui.dart';
+import 'package:flutter_cake_shop_app/views/splash_screen_ui.dart';
 
 import 'package:google_fonts/google_fonts.dart';
 
